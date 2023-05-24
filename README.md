@@ -15,7 +15,11 @@ japanese
 korean
 spanish
 * Seed phrase generator with balance
-Good luck!
+
 Learn more here 
+
 youtube : https://www.youtube.com/@crypto19dz
+
 payhip : https://payhip.com/b/2rpN9
+
+Good luck!
