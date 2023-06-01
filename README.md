@@ -1,6 +1,6 @@
 METAMASK Brute Force v1 0
- 
-* Entropy generation HEX :
+
+ * Entropy generation HEX :
 [0-9A-F]
 * Number of mnemonic words:
 12/24
