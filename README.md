@@ -1,21 +1,22 @@
 * METAMASK Brute Force v1 0
  
 * Entropy generation HEX :
-- [0-9A-F]
+`[0-9A-F]
 * Number of mnemonic words:
  12/24
 * Supported mnemonic languages:
- english
- chinese_simplified
- chinese_traditional
+`english
+`chinese_simplified
+`chinese_traditional
  french
  italian
  japanese
  korean
  spanish
  Seed phrase generator with balance
- Good luck!
+
 * Learn more here 
 * payhip :  https://payhip.com/Mervandz
 * Telegram : @Crypto19dz
 * Email : hamzacryptodz@gmail.com
+* Good luck!
