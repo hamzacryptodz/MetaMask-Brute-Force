@@ -1,4 +1,3 @@
-# METAMASK-
 METAMASK Brute Force v1 0
  
 * Entropy generation HEX :
@@ -15,11 +14,8 @@ japanese
 korean
 spanish
 * Seed phrase generator with balance
-
-Learn more here 
-
-youtube : https://www.youtube.com/@crypto19dz
-
-payhip : https://payhip.com/b/2rpN9
-
 Good luck!
+Learn more here 
+payhip :  https://payhip.com/Mervandz
+Telegram : @Crypto19dz
+Email : hamzacryptodz@gmail.com
