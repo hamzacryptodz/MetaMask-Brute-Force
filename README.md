@@ -13,7 +13,6 @@ italian
 japanese
 korean
 spanish
-Seed phrase generator with balance
 * Learn more here 
 * payhip :  https://payhip.com/Mervandz
 * Telegram : @Crypto19dz
